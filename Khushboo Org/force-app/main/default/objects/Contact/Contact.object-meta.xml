@@ -198,13 +198,6 @@
     </actionOverrides>
     <actionOverrides>
         <actionName>NewContact</actionName>
-        <content>creatingNewRecordComponent</content>
-        <formFactor>Large</formFactor>
-        <skipRecordTypeSelect>false</skipRecordTypeSelect>
-        <type>LightningComponent</type>
-    </actionOverrides>
-    <actionOverrides>
-        <actionName>NewContact</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
